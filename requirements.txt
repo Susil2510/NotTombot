@@ -13,3 +13,12 @@ aiohttp
 python-dotenv
 psutil
 openai==0.25.0
+
+yt_dlp
+pykeyboard
+wget
+aiofiles
+ffmpeg
+youtube_search
+youtube-search-python==1.4.6
+youtube-dl
