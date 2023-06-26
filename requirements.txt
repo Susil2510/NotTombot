@@ -15,7 +15,6 @@ psutil
 openai==0.25.0
 
 yt_dlp
-pykeyboard
 wget
 aiofiles
 ffmpeg
